@@ -1,1 +1,1 @@
-# mapbox-heatmap
+# mabox-heatmap
